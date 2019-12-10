@@ -1,0 +1,22 @@
+#divLights {
+  width: 500px;
+  height: 100px;
+}
+
+.boxLight {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.greenLight {
+  background-color: green;
+}
+
+.yellowLight {
+  background-color: yellow;
+}
+
+.redLight {
+  background-color: red;
+}
